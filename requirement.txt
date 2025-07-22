@@ -1,0 +1,5 @@
+streamlit
+wikipedia
+sec-edgar-downloader
+chromadb
+sentence-transformers
